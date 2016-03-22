@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello">你好哇！</string>
+    <string name="app_name">look一下</string>
+    <string name="once_again">再按一次退出</string>
+    <string name="textSize">字号</string>
+    <string name="textFind">查找</string>
+    <string name="isExitting">要退出？</string>
+    <string name="sortError">排序失败</string>
+    <string name="findNothing">未找到</string>
+    <string name="forbidTooLong">你妹的，不要太长！</string>
+    <string name="lastWordIcon">&lt;</string>
+    <string name="nextWordIcon">&gt;</string>
+    <string name="save">保存</string>
+    <string name="menu">菜单</string>
+    <string name="exit">退出</string>
+    <string name="saveSuccess">保存成功</string>
+    <string name="saveFail">保存失败</string>
+    <string name="listIsNull">目录为空</string>
+    <string name="search">搜索</string>
+    <string name="built_new_folder">新建文件夹</string>
+    <string name="jumpto">跳转至</string>
+    <string name="toNewReadFile">去目录上创建一个readme.txt</string>
+    <string name="mode">模式</string>
+    <string name="built_new_text">新建文本</string>
+    <string name="input_folder_name">请输入新建文件夹名称：</string>
+    <string name="new_built">新建之</string>
+    <string name="built_success">创建成功</string>
+    <string name="not_open_text">未打开文本</string>
+    <string name="see_mode">观看模式</string>
+    <string name="mode_day">白天模式</string>
+    <string name="mode_night">夜间模式</string>
+    <string name="input_new_text">请输入新建文件名称：</string>
+    <string name="built_new_text_success">新建文件成功</string>
+    <string name="built_new_text_fail">新建文件失败</string>
+    <string name="text_jumpto">文本跳转</string>
+    <string name="document_function">文件操作</string>
+    <string name="move_success">移动成功</string>
+    <string name="moved_document_name">移入的文件夹名称(仅限本列表内):</string>
+    <string name="yes">确定</string>
+    <string name="no">取消</string>
+    <string name="input_new_name">请输入新名称：</string>
+    <string name="change">更改</string>
+    <string name="change_success">更改成功</string>
+    <string name="cancel">取消</string>
+    <string name="isSureDelete">确定要删？</string>
+    <string name="delete_success">删除成功</string>
+    <string name="null_folder">空文件夹</string>
+    <string name="null_file">空文件</string>
+    <string name="to_code_page">code</string>
+    <string name="finish">close</string>
+    <string name="startToSearch">请输入首字母进行搜索</string>
+    <string name="edtLastOpenList">最近打开</string>
+    
+</resources>
